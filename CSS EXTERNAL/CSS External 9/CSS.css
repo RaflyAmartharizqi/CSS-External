@@ -1,0 +1,8 @@
+ 
+td{
+    height: 50px;
+    border-style: dashed; border-width: 1px; border-color: blue;
+}
+table{
+    border-style: solid;border-width: 1px;border-color: black;
+}
